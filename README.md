@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prateek Sharma</h1>
+<h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
 <h3 align="center">A passionate frontend - React developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek3065&label=Profile%20views&color=0e75b6&style=flat" alt="prateek3065" /> </p>
