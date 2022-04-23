@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek3065" alt="prateek3065" /></a> </p>
 
-- 🔭 I’m currently working on [Conways-Game-Of-Life](https://github.com/prateek3065/Conways-Game-Of-Life)
+- 🔭 I’m currently open to work.
 
-- 🌱 I’m currently learning **ReactJS Javascript**
+- 🌱 I’m a frontend developer and my major skills include **ReactJS Javascript CSS TypeScript**
 
-- 💬 Ask me about **ReactJs Javascript**
+- 💬 I have been woking with React for more than three years now, mainly focusing on building webApp which has optimised performance and are reusable/scalable and smooth.
+Currently I am working as a FrontEnd/ReactJS Developer in a US based company for a US B2B client handling their e-commerce website where I am exercising the above skills.
 
 - 📫 How to reach me **prateek.pixel@gmail.com**
 
