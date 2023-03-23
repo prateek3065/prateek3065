@@ -1,5 +1,5 @@
 <h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
-<h3 align="center">A passionate frontend - React developer from India</h3>
+<h3 align="center">Passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek3065&label=Profile%20views&color=0e75b6&style=flat" alt="prateek3065" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently open to work.
 
-- 🌱 I’m a frontend developer and my major skills include **ReactJS Javascript CSS TypeScript**
+- 🌱 I’m a frontend developer and my major skills include **ReactJS Javascript TypeScript**
 
 - 💬 I have been woking with React for more than three years now, mainly focusing on building webApp which has optimised performance and are reusable/scalable and smooth.
 Currently I am working as a FrontEnd/ReactJS Developer in a US based company for a US B2B client handling their e-commerce website where I am exercising the above skills.
