@@ -1,3 +1,6 @@
+<script>
+  console.log("testing");
+</script>
 <h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
 <h3 align="center">Passionate frontend developer</h3>
 
