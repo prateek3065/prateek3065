@@ -1,6 +1,6 @@
-<script>
-  console.log("testing");
-</script>
+<p align="center">
+  <button onclick="alert('Hello, GitHub!')">Click Me</button>
+</p>
 <h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
 <h3 align="center">Passionate frontend developer</h3>
 
