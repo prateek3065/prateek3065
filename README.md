@@ -1,5 +1,13 @@
+<script>
+ 
+  function greet() {
+    alert('Hello, GitHub!');
+  }
+</script>
+
+<p align="center">Interactive Button:</p>
 <p align="center">
-  <button onclick="alert('Hello, GitHub!')">Click Me</button>
+  <button onclick="greet()">Click Me</button>
 </p>
 <h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
 <h3 align="center">Passionate frontend developer</h3>
