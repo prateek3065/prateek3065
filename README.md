@@ -1,7 +1,3 @@
-<p align="center">Interactive Button:</p>
-<p align="center">
-  <button onclick="greet()">Click Me</button>
-</p>
 <h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
 <h3 align="center">Passionate frontend developer</h3>
 
@@ -34,29 +30,3 @@ Currently I am working as a FrontEnd/ReactJS Developer in a US based company for
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek3065&show_icons=true&locale=en" alt="prateek3065" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek3065&" alt="prateek3065" /></p>
-
-
-
-<!-- Adding the complete HTML structure -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>GitHub Profile README</title>
-</head>
-<body>
-
-  <script>
-    // Your JavaScript code here
-    function greet() {
-      alert('Hello, GitHub!');
-    }
-  </script>
-
-  <h2 align="center">Interactive Button</h2>
-  <p align="center">
-    <button onclick="greet()">Click Me</button>
-  </p>
-
-</body>
-</html>
