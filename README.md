@@ -1,32 +1,80 @@
-<h1 align="center">Cześć 🏀 , This is Prateek Sharma</h1>
-<h3 align="center">Passionate frontend developer</h3>
+<!-- README.md style enhanced version with interactive elements -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek3065&label=Profile%20views&color=0e75b6&style=flat" alt="prateek3065" /> </p>
+<div align="center">
+  <h1 style="font-size: 3em;">👋 Cześć, I'm <span style="color:#4FD1C5;">Prateek Sharma</span> 🏀</h1>
+  <h3 style="color: #718096;">A passionate frontend developer focused on clean UI and performance</h3>
+  <img src="https://komarev.com/ghpvc/?username=prateek3065&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateek3065" alt="prateek3065" /></a> </p>
+<br/>
 
-- 🔭 I’m currently open to work.
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=prateek3065&theme=onestar&no-frame=true&row=1&margin-w=10" alt="GitHub Trophy"/>
+  </a>
+</div>
 
-- 🌱 I’m a frontend developer and my major skills include **ReactJS Javascript TypeScript**
+---
 
-- 💬 I have been woking with React for more than three years now, mainly focusing on building webApp which has optimised performance and are reusable/scalable and smooth.
-Currently I am working as a FrontEnd/ReactJS Developer in a US based company for a US B2B client handling their e-commerce website where I am exercising the above skills.
+### 🚀 About Me
+- 🔭 I’m currently **open to work**
+- 💻 Specializing in: **ReactJS, JavaScript, TypeScript**
+- 🔁 I focus on **scalable, performant and reusable** web applications
+- 👨‍💻 Currently building a US B2B e-commerce site for a US-based client
+- 📫 Reach me: [prateek.pixel@gmail.com](mailto:prateek.pixel@gmail.com)
 
-- 📫 How to reach me **prateek.pixel@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/prateek-sharma-891721196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek-sharma-891721196" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prateek3065" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prateek3065" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prateek3065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prateek3065" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prateek3065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateek3065" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prateek-sharma-891721196" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/prateek3065" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/prateek3065" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.leetcode.com/prateek3065" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateek3065&show_icons=true&locale=en&layout=compact" alt="prateek3065" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prateek3065&show_icons=true&locale=en" alt="prateek3065" /></p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateek3065&" alt="prateek3065" /></p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateek3065&show_icons=true&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek3065&layout=compact&theme=radical" width="45%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek3065&theme=radical" />
+</div>
+
+---
+
+### 🧠 Fun Fact
+⚡ I love turning complex UI/UX ideas into sleek React components, and sometimes I debug faster with **coffee** than with Chrome DevTools 😉
+
